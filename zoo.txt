@@ -1,1 +1,19 @@
-Prueba de Escritura
+data
+nodes
+visualization
+diagram
+map
+values
+hierarchy
+graphs
+layout
+network
+tim
+chart
+series
+tree 
+plots
+visual
+techniques
+differen
+statistical
